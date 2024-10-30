@@ -1,0 +1,204 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Demographics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-17 12:57+0100\n"
+"PO-Revision-Date: 2010-08-17 12:57+0100\n"
+"Last-Translator: anty <mail@anty.at>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2 plural=(n != 1);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c;_x:2c,1;_n:1,2;__ngettext:1,2\n"
+"X-Poedit-Basepath: /home/anty/Desktop/blog-demographics/\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: demographics.php:175
+msgid "MyBlogLog Settings"
+msgstr ""
+
+#: demographics.php:177
+msgid "MyBlogLog-Community-Id:"
+msgstr ""
+
+#: demographics.php:178
+msgid "MyBlogLog AppId:"
+msgstr ""
+
+#: demographics.php:181
+msgid "BlogCatalog Settings"
+msgstr ""
+
+#: demographics.php:183
+msgid "BlogCatalog API key:"
+msgstr ""
+
+#: demographics.php:187
+msgid "Facebook Settings"
+msgstr ""
+
+#: demographics.php:189
+msgid "Facebook Email or Telephone:"
+msgstr ""
+
+#: demographics.php:190
+msgid "Facebook Password:"
+msgstr ""
+
+#: demographics.php:219
+msgid "MyBlogLog tracks the identity of your visitors."
+msgstr ""
+
+#: demographics.php:223
+msgid "BlogCatalog tracks the identity of your visitors like MyBlogLog."
+msgstr ""
+
+#: demographics.php:232
+msgid "You need to enable the cURL-module on your server to use Facebook!"
+msgstr ""
+
+#: demographics.php:234
+msgid "Facebook is used to access data that is only visible to logged-in users."
+msgstr ""
+
+#: demographics.php:243
+#, php-format
+msgid "Log into MyBlogLog, go to the settings-page of your site and copy the numbers from the \"Link Tracking Code\". It looks like this: %s"
+msgstr ""
+
+#: demographics.php:257
+msgid "Valid App Id"
+msgstr ""
+
+#: demographics.php:257
+#: demographics.php:259
+#: demographics.php:262
+msgid "View my app ids"
+msgstr ""
+
+#: demographics.php:257
+#: demographics.php:259
+#: demographics.php:262
+msgid "or"
+msgstr ""
+
+#: demographics.php:257
+#: demographics.php:259
+#: demographics.php:262
+msgid "Apply for a \"Generic, No user authenticaton required\"-key here!"
+msgstr ""
+
+#: demographics.php:259
+msgid "Invalid App Id"
+msgstr ""
+
+#: demographics.php:262
+msgid "Tip: Put random letters in here, if you don't have an App Id. This seems to work."
+msgstr ""
+
+#: demographics.php:337
+msgid "Valid key"
+msgstr ""
+
+#: demographics.php:337
+#: demographics.php:339
+#: demographics.php:342
+#: demographics.php:345
+msgid "View my API key"
+msgstr ""
+
+#: demographics.php:339
+msgid "Error"
+msgstr ""
+
+#: demographics.php:339
+msgid "API key is valid, but couldn't find community for this blog. Do you have one yet?"
+msgstr ""
+
+#: demographics.php:342
+msgid "Invalid key"
+msgstr ""
+
+#: demographics.php:402
+#: demographics.php:419
+msgid "Settings"
+msgstr ""
+
+#: demographics.php:402
+#: demographics.php:403
+#: demographics.php:419
+msgid "Demographics"
+msgstr ""
+
+#: demographics.php:403
+#: demographics.php:1433
+#: demographics.php:1483
+msgid "Blog Demographics"
+msgstr ""
+
+#: demographics.php:414
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: demographics.php:421
+msgid "You need to add MyBlogLog or BlogCatalog to get demographics! Add both services to get the most out of this plug-in."
+msgstr ""
+
+#: demographics.php:446
+msgid "Please add MyBlogLog-settings to get more accurate data!"
+msgstr ""
+
+#: demographics.php:446
+#: demographics.php:735
+msgid "Click here to add those settings now!"
+msgstr ""
+
+#: demographics.php:735
+msgid "Please add BlogCatalog-settings to get more accurate data!"
+msgstr ""
+
+#: demographics.php:1434
+#, php-format
+msgid "The gender-diagram is based on %d visitor."
+msgid_plural "The gender-diagram is based on %d visitors."
+msgstr[0] ""
+msgstr[1] ""
+
+#: demographics.php:1435
+#, php-format
+msgctxt "not rtl compatible"
+msgid "Male %d%%"
+msgstr ""
+
+#: demographics.php:1435
+#, php-format
+msgctxt "not rtl compatible"
+msgid "Female %d%%"
+msgstr ""
+
+#: demographics.php:1435
+msgid "Gender demographics"
+msgstr ""
+
+#: demographics.php:1436
+#, php-format
+msgid "The age-diagram is based on %d visitor."
+msgid_plural "The age-diagram is based on %d visitors."
+msgstr[0] ""
+msgstr[1] ""
+
+#: demographics.php:1437
+msgid "Age demographics"
+msgstr ""
+
+#: demographics.php:1483
+msgid "Please wait while your visitors are being analyzed. (This may take a long time if you are calling this site for the first time.)"
+msgstr ""
+

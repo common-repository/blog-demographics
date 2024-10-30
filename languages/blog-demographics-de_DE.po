@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Demographics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-03 11:18+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: anty <mail@anty.at>\n"
+"Language-Team: anty <mail@anty.at>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c;_n:1,2;__ngettext:1,2;_x:2c,1\n"
+"X-Poedit-Basepath: /home/anty/Zend/workspaces/DefaultWorkspace7/blog-demographics/trunk\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: demographics.php:230
+msgid "Facebook Settings"
+msgstr "Facebook Einstellungen"
+
+#: demographics.php:232
+msgid "Facebook Email or Telephone:"
+msgstr "Facebook E-mail oder Telefon:"
+
+#: demographics.php:233
+msgid "Facebook Password:"
+msgstr "Facebook Passwort:"
+
+#: demographics.php:236
+msgid "MyBlogLog Settings"
+msgstr "MyBlogLog Einstellungen"
+
+#: demographics.php:238
+msgid "MyBlogLog-Community-Id:"
+msgstr "MyBlogLog-Community-Id:"
+
+#: demographics.php:239
+msgid "MyBlogLog AppId:"
+msgstr "MyBlogLog AppId:"
+
+#: demographics.php:242
+msgid "BlogCatalog Settings"
+msgstr "BlogCatalog Einstellungen"
+
+#: demographics.php:244
+msgid "BlogCatalog API key:"
+msgstr "BlogCatalog API key:"
+
+#: demographics.php:273
+msgid "MyBlogLog tracks the identity of your visitors."
+msgstr "MyBlogLog verfolgt die Identität deiner Besucher."
+
+#: demographics.php:277
+msgid "BlogCatalog tracks the identity of your visitors like MyBlogLog."
+msgstr "BlogCatalog verfolgt die Identität deiner Besucher wie MyBlogLog."
+
+#: demographics.php:286
+msgid "You need to enable the cURL-module on your server to use Facebook!"
+msgstr "Du musst das cURL-Modul am Server aktivieren um Facebook zu nutzen!"
+
+#: demographics.php:299
+#, php-format
+msgid "You need to make the file %s read- and writable to use Facebook!"
+msgstr "Du musst die Datei %s les- und schreibbar machen um Facebook zu benutzen!"
+
+#: demographics.php:301
+msgid "Facebook is used to access data that is only visible to logged-in users."
+msgstr "Facebook wird benutzt um Daten abzurufen die nur eingeloggte Benutzer sehen."
+
+#: demographics.php:310
+#, php-format
+msgid "Log into MyBlogLog, go to the settings-page of your site and copy the numbers from the \"Link Tracking Code\". It looks like this: %s"
+msgstr "Log dich in MyBlogLog ein, gehe zur Einstellungs-Seite deiner Seite und kopiere die Nummern vom \"Link Tracking Code\". Das sieht so aus: %s"
+
+#: demographics.php:324
+msgid "Valid App Id"
+msgstr "Gültige App Id"
+
+#: demographics.php:324
+#: demographics.php:326
+#: demographics.php:329
+msgid "View my app ids"
+msgstr "Zeige meine App Ids"
+
+#: demographics.php:324
+#: demographics.php:326
+#: demographics.php:329
+msgid "or"
+msgstr "oder"
+
+#: demographics.php:324
+#: demographics.php:326
+#: demographics.php:329
+msgid "Apply for a \"Generic, No user authenticaton required\"-key here!"
+msgstr "Suche um einen \"Generic, No user authentication required\"-key hier an!"
+
+#: demographics.php:326
+msgid "Invalid App Id"
+msgstr "Ungültige App Id"
+
+#: demographics.php:329
+msgid "Tip: Put random letters in here, if you don't have an App Id. This seems to work."
+msgstr "Tipp: Schreibe zufällige Buchstaben hier herein, wenn du keine App Id hast. Das scheint zu funktionieren."
+
+#: demographics.php:406
+msgid "Valid key"
+msgstr "Gültiger Key"
+
+#: demographics.php:406
+#: demographics.php:408
+#: demographics.php:411
+#: demographics.php:414
+msgid "View my API key"
+msgstr "Zeige meinen API key"
+
+#: demographics.php:408
+msgid "Error"
+msgstr "Fehler"
+
+#: demographics.php:408
+msgid "API key is valid, but couldn't find community for this blog. Do you have one yet?"
+msgstr "API key ist gültig, aber konnte keine Community für dieses Blog finden. Hast du schon eine?"
+
+#: demographics.php:411
+msgid "Invalid key"
+msgstr "Ungültiger key"
+
+#: demographics.php:471
+#: demographics.php:488
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: demographics.php:471
+#: demographics.php:472
+#: demographics.php:488
+msgid "Demographics"
+msgstr "Demografie"
+
+#: demographics.php:472
+#: demographics.php:2066
+#: demographics.php:2188
+msgid "Blog Demographics"
+msgstr "Blog Demografie"
+
+#: demographics.php:483
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du hast nicht ausreichend Rechte, um auf diese Seite zuzugreifen."
+
+#: demographics.php:490
+msgid "You need to add Facebook, MyBlogLog or BlogCatalog to get demographics! Add all services to get the most out of this plug-in."
+msgstr "Du musst Facebook, MyBlogLog oder BlogCatalog hinzufügen um demografische Daten zu bekommen! Füge alle Services hinzu um möglichst viel aus diesem Plug-In heraus zu holen."
+
+#: demographics.php:515
+msgid "Please add MyBlogLog-settings to get more accurate data!"
+msgstr "Bitte füge MyBlogLog-Einstellungen hinzu um genauere Daten zu bekommen!"
+
+#: demographics.php:515
+#: demographics.php:809
+msgid "Click here to add those settings now!"
+msgstr "Klicke hier um diese Einstellungen jetzt hinzuzufügen!"
+
+#: demographics.php:809
+msgid "Please add BlogCatalog-settings to get more accurate data!"
+msgstr "Bitte füge BlogCatalog-Einstellungen hinzu um genauere Daten zu bekommen!"
+
+#: demographics.php:2067
+#, php-format
+msgid "The gender-diagram is based on %1$d visitor (%2$d male, %3$d female)."
+msgid_plural "The gender-diagram is based on %1$d visitors (%2$d male, %3$d female)."
+msgstr[0] "Das Geschlechter-Diagramm basiert auf %1$d Besucher (%2$d männlich, %3$d weiblich)."
+msgstr[1] "Das Geschlechter-Diagramm basiert auf %1$d Besuchern (%2$d männlich, %3$d weiblich)."
+
+#: demographics.php:2068
+#: demographics.php:2127
+#, php-format
+msgid "Male %d%%"
+msgstr "Männlich %d%%"
+
+#: demographics.php:2068
+#: demographics.php:2127
+#, php-format
+msgid "Female %d%%"
+msgstr "Weiblich %d%%"
+
+#: demographics.php:2068
+msgid "Gender demographics"
+msgstr "Geschlechter Demografie"
+
+#: demographics.php:2069
+#, php-format
+msgid "The age-diagram is based on %1$d visitor (%2$d male, %3$d female)."
+msgid_plural "The age-diagram is based on %1$d visitors (%2$d male, %3$d female)."
+msgstr[0] "Das Alters-Diagramm basiert auf %1$d Besucher (%2$d männlich, %3$d weiblich)."
+msgstr[1] "Das Alters-Diagramm basiert auf %1$d Besuchern (%2$d männlich, %3$d weiblich)."
+
+#: demographics.php:2070
+msgid "Age groups for:"
+msgstr "Altersgruppen für:"
+
+#: demographics.php:2071
+#: demographics.php:2080
+msgid "All"
+msgstr "Alle"
+
+#: demographics.php:2072
+#: demographics.php:2081
+#: demographics.php:2132
+msgid "Male"
+msgstr "Männlich"
+
+#: demographics.php:2073
+#: demographics.php:2082
+#: demographics.php:2134
+msgid "Female"
+msgstr "Weiblich"
+
+#: demographics.php:2075
+msgid "Age groups"
+msgstr "Altersgruppen"
+
+#: demographics.php:2076
+msgid "Male age group"
+msgstr "Männliche Altersgruppe"
+
+#: demographics.php:2077
+msgid "Female age group"
+msgstr "Weibliche Altersgruppe"
+
+#: demographics.php:2078
+#, php-format
+msgid "The services-diagram is based on %1$d visitor (%2$d male, %3$d female) who use at least one service."
+msgid_plural "The services-diagram is based on %1$d visitors (%2$d male, %3$d female) who use at least one service."
+msgstr[0] "Das Service-Diagramm basiert auf %1$d Besucher (%2$d männlich, %3$d weiblich) welcher zumindest ein Service benutzt."
+msgstr[1] "Das Service-Diagramm basiert auf %1$d Besuchern (%2$d männlich, %3$d weiblich) welche zumindest ein Service benutzen."
+
+#: demographics.php:2079
+msgid "Service groups for:"
+msgstr "Service-Gruppen für:"
+
+#: demographics.php:2140
+msgid "Social media usage"
+msgstr "Social Media Benutzung"
+
+#: demographics.php:2141
+msgid "Male social media usage"
+msgstr "Männliche Social Media Benutzung"
+
+#: demographics.php:2142
+msgid "Female social media usage"
+msgstr "Weibliche Social Media Benutzung"
+
+#: demographics.php:2188
+msgid "Please wait while your visitors are being analyzed. (This may take a long time if you are calling this site for the first time.)"
+msgstr "Bitte warte während deine Besucher analysiert werden. (Dies kann eine längere Zeit in Anspruch nehmen wenn du diese Seite zum ersten Mal aufrufst.)"
+
+#~ msgid "Save Changes"
+#~ msgstr "Änderungen Übernehmen"
+
